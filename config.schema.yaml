@@ -7,5 +7,5 @@ github_token:
 forum_feed_url:
   description: "URL to the forum RSS feed."
   type: "string"
-  default: "https://forum.stackstorm.com/latest.rss"
+  default: "https://forum.coditation.com/latest.rss"
   required: true

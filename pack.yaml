@@ -1,10 +1,10 @@
 ---
 ref: st2community
 name: st2community
-description: Pack to help manage Stackstorm's community.
+description: Pack to help manage Coditation's community.
 version: 0.4.0
 keywords:
-  - StackStorm
+  - Coditation
   - Community
-author: StackStorm
-email: info@stackstorm.com
+author: Coditation
+email: info@coditation.com

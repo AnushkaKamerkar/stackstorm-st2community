@@ -18,8 +18,8 @@ action:
   parameters:
     channel: "#development"
     github_users:
-      - "StackStorm"
-      - "StackStorm-Exchange"
+      - "Coditation"
+      - "Coditation-Exchange"
     delta:
       days: 1
       minutes: 10
